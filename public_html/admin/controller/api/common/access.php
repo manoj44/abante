@@ -2,8 +2,8 @@
 /*------------------------------------------------------------------------------
   $Id$
 
-  AbanteCart, Ideal OpenSource Ecommerce Solution
-  http://www.AbanteCart.com
+  mountbees, Ideal OpenSource Ecommerce Solution
+  http://www.mountbees.com
 
   Copyright 2011-2015 Belavier Commerce LLC
 
